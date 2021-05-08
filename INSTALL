@@ -1,9 +1,0 @@
-Building Coinfordonation
-
-See doc/readme-qt.rst for instructions on building Coinfordonation-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Coinfordonation.
-
-See doc/build-*.txt for instructions on building coinfordonationd,
-the intended-for-services, no-graphical-interface, reference
-implementation of Coinfordonation.
