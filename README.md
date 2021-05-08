@@ -1,7 +1,7 @@
 Coinfordonation integration/staging tree
 ================================
 
-http://www.coinfordonation.org
+
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2021 Coinfordonation Developers
