@@ -13,8 +13,6 @@ Coinfordonation is a lite version of Bitcoin using scrypt as a proof-of-work alg
  - 2.5 minute block targets
  - subsidy halves in 200k blocks (~1 year)
  - ~1200 million total coins
-
-The rest is the same as Bitcoin.
  - 512 coins per block
  - 2016 blocks to retarget difficulty
 
